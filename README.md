@@ -81,5 +81,5 @@ pip install flask mysql-connector-python
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la [Licencia Pública General GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+Este proyecto se desarrolló con fines académicos y no está destinado para uso comercial.
 
